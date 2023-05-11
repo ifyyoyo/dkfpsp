@@ -1,4 +1,5 @@
-movie rating
+Movie rating
+
 Data source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset.
 
 Problem: an online media wants to write an article on the movie ratings over the time, they want to explore what is the overall trend and are there different trends in different Gneres
