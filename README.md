@@ -1,8 +1,10 @@
 movie rating
 Data source: https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset.
+
 Problem: an online media wants to write an article on the movie ratings over the time, they want to explore what is the overall trend and are there different trends in different Gneres
 
 I imported relevant libraries needed for the project, used pandas to read all the data into a DataFrame.
+
 i had four different file, so i had to combine all the data to form just one dataset 
 
 I checked for missing data and there was a lot of data missing but it was not necessary to drop them as it would not affect the outcome of the project, especially when those missing data are not in the relevant columns and rows.
